@@ -1,1 +1,104 @@
+general schema: 
+COVER is a frame with roles COVERER 1, COVERED 2, INSTRUMENT 3
+CONCEAL: CONCEALER 1, CONCEALED 2, METHOD 3
+RESCUE: RESCUER 1, RESCUEE 2, CRISIS 3
 
+COVER[2BUILDING]
+---------------
+DAG	pilli [pìllì] v. (2) cover the top of a building
+MRI	tāpatu (verb) (-a,-ngia,-tia) to roof, cover, thatch.
+
+COVER[2CONTAINER]
+-----------------
+MRI	tūpoki (1) to capsize, overturn (2) (verb) (-na) to cover [e.g. honey to protect it from flies]
+
+COVER[3CUP]
+----------
+DAG	kyigi [ʧìgì] v. to cover entirely with a cuplike object
+
+COVER[3CLOTH]
+------------
+DAG	pilli [pìllì] v. (1) to cover (with a cloth)
+MRI	huili v. (1) to cover "[...] blankets to cover us at night [...]"
+
+COVER[2FLOOR,3MAT]
+------------------
+MRI	whāriki (1) to cover with a mat, spread out on the ground. "[...] spread a mat and treasures"
+
+COVER[2SKY,3CLOUDS]
+-------------------
+MRI	kupi (1) to shut (the eyes), screw up (the eyes) - shut them so hard that the skin wrinkles up around them. (2) (stative) to cover "sky was completely covered with dark clouds"
+
+COVER[2BODY,3GARMENT]
+---------------------
+MRI	tāpatu (verb) (-a,-ngia,-tia) to roof, cover, thatch.
+
+
+	
+
+COVER[13INSECTS]
+----------------
+DAG	milli pɔge [mìllì-pɔ̀gɪ̀] v. to cover all over e.g. flies over a rotten carcass • Naazoore milli pɔge la a nɛmpoɔnaa zaa. The rotten meat is completely covered with flies.
+
+CONCEAL[2WRONGDOING]
+------------------
+DAG	pilipili [pìlìpílí] v. to cover up or confuse by clever actions
+DAG	pimpiŋ [pìmpíŋ] v. to attempt to confuse, to cover a deed
+
+RESCUE[2PERSON,3EMBARASSMENT]
+----------------------
+DAG	inni [línnì] v. to cover up someone e.g. from being embarrassed • A bie na la zu a libie kyɛ ka o ma linni o. That boy stole the money but his mother covered him up.
+
+PUT_ON[2HAT]
+------------
+DAG	vɔgele [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
+
+OVERTURN[2CONTAINER]
+--------------------MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+DAG	vɔgele [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
+
+OVERTURN[2BOAT]
+---------------
+MRI	tūpoki (1) to capsize, overturn (2) (verb) (-na) to cover [e.g. honey to protect it from flies]
+
+COVER[GENERIC]
+--------------
+DAG	pɔge [pɔ̀gɪ̀] v. (2) to cover
+DAG	vɔgele [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
+MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+
+CLOSE[GENERIC]
+--------------
+DAG	pɔge [pɔ̀gɪ̀] v. (1) to close, to shut
+
+CLOSE[EYES]
+-----------
+MRI	kupi (1) to shut (the eyes), screw up (the eyes) - shut them so hard that the skin wrinkles up around them. (2) (stative) to cover "sky was completely covered with dark clouds"
+
+IMPRISON[GENERIC]
+-----------------
+DAG	pɔge [pɔ̀gɪ̀] v. (3) to imprison
+
+HOLD_WATER_IN_MOUTH
+-------------------
+DAG	gbore [gbʊ̀rɪ̀] v. (1) to hold water in the mouth (2) to conceal a hole (of a rodent)
+
+CONCEAL[2MOUSEHOLE]
+-------------------
+DAG	gbore [gbʊ̀rɪ̀] v. (1) to hold water in the mouth (2) to conceal a hole (of a rodent)
+
+HAVE_A_SHOWER
+-------------
+MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+
+SPRINKLE[GENERIC]
+-----------------
+MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+
+colexifications
+---------------
+DAG	pilli	{COVER[2BUILDING], COVER[3CLOTH]}
+DAG	pɔge	{CLOSE[GENERIC], COVER[GENERIC], IMPRISON[GENERIC]}
+DAG	vɔgele	{COVER[GENERIC], PUT_ON[2HAT], OVERTURN[2CONTAINER]}
+DAG	gbore	{CONCEAL[2MOUSEHOLE], HOLD_WATER_IN_MOUTH}
+SPA	dar vuelta	{OVERTURN[2CONTAINER], OVERTURN[2BOAT]}
