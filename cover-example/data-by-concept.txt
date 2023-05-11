@@ -1,3 +1,5 @@
+NOTE: this is intended as an overview of the notational conventions for delineating concepts/frames, actual data collection happens in the data-by-concepts subfolder
+
 general schema: 
 COVER is a frame with roles COVERER 1, COVERED 2, INSTRUMENT 3
 CONCEAL: CONCEALER 1, CONCEALED 2, METHOD 3
@@ -54,7 +56,7 @@ PUT_ON[2HAT]
 DAG	vɔgele [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
 
 OVERTURN[2CONTAINER]
---------------------MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+--------------------
 DAG	vɔgele [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
 
 OVERTURN[2BOAT]
@@ -94,11 +96,3 @@ MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover
 SPRINKLE[GENERIC]
 -----------------
 MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
-
-colexifications
----------------
-DAG	pilli	{COVER[2BUILDING], COVER[3CLOTH]}
-DAG	pɔge	{CLOSE[GENERIC], COVER[GENERIC], IMPRISON[GENERIC]}
-DAG	vɔgele	{COVER[GENERIC], PUT_ON[2HAT], OVERTURN[2CONTAINER]}
-DAG	gbore	{CONCEAL[2MOUSEHOLE], HOLD_WATER_IN_MOUTH}
-SPA	dar vuelta	{OVERTURN[2CONTAINER], OVERTURN[2BOAT]}
