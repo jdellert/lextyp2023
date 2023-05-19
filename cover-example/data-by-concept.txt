@@ -140,3 +140,7 @@ MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover
 SPRINKLE[GENERIC]
 -----------------
 MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+
+FILL_UP
+----------
+NAH	 teppachoa: to fill something up or to cover something with dust
