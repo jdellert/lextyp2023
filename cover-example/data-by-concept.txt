@@ -14,6 +14,18 @@ COVER[2CONTAINER]
 -----------------
 MRI	tūpoki (1) to capsize, overturn (2) (verb) (-na) to cover [e.g. honey to protect it from flies]
 
+COVER[2MOUTH]
+-----------------
+NAH	tenquimiloa: to cover one's mouth with something; or, in the transitive, to cover someone's mouth with something 
+
+COVER[2EARS]
+-----------------
+NAH	nacatzatzacua: to close or cover one's ears or the ears of someone else
+
+COVER[2FACE]
+-----------------
+NAH	īxtlālhuiliā: to cover s.o.’s face with s.t
+
 COVER[3CUP]
 ----------
 DAG	kyigi [ʧìgì] v. to cover entirely with a cuplike object
@@ -22,6 +34,30 @@ COVER[3CLOTH]
 ------------
 DAG	pilli [pìllì] v. (1) to cover (with a cloth)
 MRI	huili v. (1) to cover "[...] blankets to cover us at night [...]"
+
+COVER[3TIN]
+----------
+NAH	amochihuia: to cover something with tin
+
+COVER[3PAPER]
+----------
+NAH	 ixamahuia: to cover something with paper
+
+COVER[3BRANCHES]
+----------
+NAH	 cuauhxiuhyotia: to cover something with tree branches
+
+COVER[3HIDES]
+----------
+NAH	ehuahuia: to cover something with skins or hides
+
+COVER[3WAX]
+----------
+NAH	xicocuitlahuia: to wax something, or cover something with wax, e.g. a canvas
+
+COVER[3DUST]
+----------
+NAH	 teppachoa: to fill something up or to cover something with dust
 
 COVER[2FLOOR,3MAT]
 ------------------
@@ -34,6 +70,14 @@ MRI	kupi (1) to shut (the eyes), screw up (the eyes) - shut them so hard that th
 COVER[2BODY,3GARMENT]
 ---------------------
 MRI	tāpatu (verb) (-a,-ngia,-tia) to roof, cover, thatch.
+
+COVER[2EYES,3CLOTH]
+---------------------
+NAH	īxpīqui:to cover the eyes of a person or animal with a cloth; īxpīquiliā: to cover the eyes of s.o.’s child, animal or dead relative with a cloth
+
+COVER[1HEN,2CHICKS,3WINGS]
+---------------------
+NAH	amatlapallapachoa: for a hen to cover her little chicks with her wings
 
 
 	
