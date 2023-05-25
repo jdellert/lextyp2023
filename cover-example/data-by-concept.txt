@@ -144,3 +144,18 @@ MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover
 FILL_UP
 ----------
 NAH	 teppachoa: to fill something up or to cover something with dust
+
+CONCEAL[GENERIC]
+----------------
+RUU bbisa (oku)bbisa v.tr. to hide, to put out of sight, to conceal
+RUU esiriikiirya (okw)esiriikiirya v.intr./tr. (1) to not disclose, to conceal, to hide (2) to pretend to be quiet, to respond with silence, to turn a deaf ear
+RUU kweka (oku)kweka v.tr. to hide, to conceal, to put out of sight, to tuck away
+
+CONCEAL[2SECRET]
+----------------
+RUU biika1 (oku)biika v.tr. (1) to keep, to hold, to keep safe (2) to store, to stockpile (3) (of money) to save, to put aside (4) (of secrets) to keep, to conceal
+
+CONCEAL[12SELF]
+---------------
+IPK talit-  v.  (1) to conceal  (2) to become concealed ; to get out of sight.
+RUU ekweka [see also ebbisa] (okw)ekweka v.intr. to hide, to conceal oneself
