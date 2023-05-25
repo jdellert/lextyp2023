@@ -70,6 +70,10 @@ COVER[3ROOF]
 ------------
 RUU sakaara (oku)sakaara v.tr. (1) to thatch, to cover (a roof or a building) with straw or a similar material (2) to roof, to cover with roof
 
+COVER[3POWDER]
+--------------
+RUU sisira (oku)sisira v.intr./tr. (1) to tremble all over, to shiver (2) to have a creepy feeling, to have a tingling sensation, to be startled, to be shocked, to be taken aback, to experience revulsion (3) to apply (powder), to powder, to cover (with powder)
+
 COVER[2FLOOR,3MAT]
 ------------------
 MRI	whāriki (1) to cover with a mat, spread out on the ground. "[...] spread a mat and treasures"
@@ -248,3 +252,7 @@ RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of
 HATCH[EGG]
 ----------
 RUU maamira (oku)maamira v.intr./tr. (1) to sit on (eggs) to hatch them, to brood, to incubate (2) to be everywhere, to spread over, to extend over, to cover a large area
+
+SHIVER[GENERIC]
+---------------
+RUU sisira (oku)sisira v.intr./tr. (1) to tremble all over, to shiver (2) to have a creepy feeling, to have a tingling sensation, to be startled, to be shocked, to be taken aback, to experience revulsion (3) to apply (powder), to powder, to cover (with powder)
