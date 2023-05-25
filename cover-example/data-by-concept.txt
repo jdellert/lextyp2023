@@ -12,6 +12,10 @@ MRI	tāpatu (verb) (-a,-ngia,-tia) to roof, cover, thatch.
 NAH TLAPACHOĀ vrefl,vt  to cover oneself; to cover something, to roof something over; to govern, rule; for a hen to brood
 RUU lasa (oku)lasa v.tr. (1) o shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
 
+COVER[2BUILDING, 3STRAW]
+------------------------
+RUU sakaara (oku)sakaara v.tr. (1) to thatch, to cover (a roof or a building) with straw or a similar material (2) to roof, to cover with roof
+
 COVER[2CONTAINER]
 -----------------
 MRI	tūpoki (1) to capsize, overturn (2) (verb) (-na) to cover [e.g. honey to protect it from flies]
@@ -61,6 +65,10 @@ NAH	xicocuitlahuia: to wax something, or cover something with wax, e.g. a canvas
 COVER[3DUST]
 ----------
 NAH	 teppachoa: to fill something up or to cover something with dust
+
+COVER[3ROOF]
+------------
+RUU sakaara (oku)sakaara v.tr. (1) to thatch, to cover (a roof or a building) with straw or a similar material (2) to roof, to cover with roof
 
 COVER[2FLOOR,3MAT]
 ------------------
