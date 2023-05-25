@@ -34,6 +34,7 @@ COVER[3CLOTH]
 ------------
 DAG	pilli [pìllì] v. (1) to cover (with a cloth)
 MRI	huili v. (1) to cover "[...] blankets to cover us at night [...]"
+RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
 
 COVER[3TIN]
 ----------
@@ -120,10 +121,13 @@ IKX ɡubés [ɡubésí-] v. to blanket, cover
 RUU bbiinikira (oku)bbiinikira v.tr. to cover
 RUU bbiitikira (oku)bbiitikira v.tr. to cover
 RUU bbuutikira (oku)bbuutikira v.tr. (1) to cover (2) (b) to treat with a steam bath (for medical purposes)
+RUU boberwa (oku)boberwa v.tr. to cover
+RUU kiinikira (oku)kiinikira v.tr. to cover
 
 CLOSE[GENERIC]
 --------------
 DAG	pɔge [pɔ̀gɪ̀] v. (1) to close, to shut
+RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
 
 CLOSE[EYES]
 -----------
@@ -181,5 +185,9 @@ STORE[GENERIC]
 --------------
 RUU biika1 (oku)biika v.tr. (1) to keep, to hold, to keep safe (2) to store, to stockpile (3) (of money) to save, to put aside (4) (of secrets) to keep, to conceal
 
+AVOID[GENERIC]
+--------------
+RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
 
-
+REPULSE[SPELLS]
+RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
