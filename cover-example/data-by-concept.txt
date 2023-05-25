@@ -79,12 +79,13 @@ COVER[1HEN,2CHICKS,3WINGS]
 ---------------------
 NAH	amatlapallapachoa: for a hen to cover her little chicks with her wings
 
-
-	
-
 COVER[13INSECTS]
 ----------------
 DAG	milli pɔge [mìllì-pɔ̀gɪ̀] v. to cover all over e.g. flies over a rotten carcass • Naazoore milli pɔge la a nɛmpoɔnaa zaa. The rotten meat is completely covered with flies.
+
+COVER[2MILLET_DOUGH]
+--------------------
+RUU bboberwa (oku)bboberwa v.tr. (of millet dough) to cover
 
 CONCEAL[2WRONGDOING]
 ------------------
@@ -109,9 +110,15 @@ MRI	tūpoki (1) to capsize, overturn (2) (verb) (-na) to cover [e.g. honey to pr
 
 COVER[GENERIC]
 --------------
-DAG	pɔge [pɔ̀gɪ̀] v. (2) to cover
-DAG	vɔgele [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
-MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+DGA pɔge  [pɔ̀gɪ̀] v. (2) to cover
+DGA vɔgele  [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
+IPK matutaq-  v.  (1) 1. to cover anything. Variant: matu-.  (3) 2. to use a fowling net
+IPK piġuuq- v.  to put a cover on something
+MRI uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+NAH TLAPACHOĀ vrefl,vt  to cover oneself; to cover something, to roof something over; to govern, rule; for a hen to brood
+IKX ɡubés [ɡubésí-] v. to blanket, cover
+RUU bbiinikira (oku)bbiinikira v.tr. to cover
+RUU bbiitikira (oku)bbiitikira v.tr. to cover
 
 CLOSE[GENERIC]
 --------------
@@ -159,3 +166,16 @@ CONCEAL[12SELF]
 ---------------
 IPK talit-  v.  (1) to conceal  (2) to become concealed ; to get out of sight.
 RUU ekweka [see also ebbisa] (okw)ekweka v.intr. to hide, to conceal oneself
+
+BE_QUIET[SECRET]
+----------------
+RUU esiriikiirya (okw)esiriikiirya v.intr./tr. (1) to not disclose, to conceal, to hide (2) to pretend to be quiet, to respond with silence, to turn a deaf ear
+
+SAVE[GENERIC]
+-------------
+RUU biika1 (oku)biika v.tr. (1) to keep, to hold, to keep safe (2) to store, to stockpile (3) (of money) to save, to put aside (4) (of secrets) to keep, to conceal
+
+STORE[GENERIC]
+--------------
+RUU biika1 (oku)biika v.tr. (1) to keep, to hold, to keep safe (2) to store, to stockpile (3) (of money) to save, to put aside (4) (of secrets) to keep, to conceal
+
