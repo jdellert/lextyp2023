@@ -123,7 +123,7 @@ OVERTURN[2BOAT]
 ---------------
 MRI	tūpoki (1) to capsize, overturn (2) (verb) (-na) to cover [e.g. honey to protect it from flies]
 
-COVER[GENERIC]
+COVER[1GENERIC]
 --------------
 DGA pɔge  [pɔ̀gɪ̀] v. (2) to cover
 DGA vɔgele  [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
@@ -139,6 +139,9 @@ RUU boberwa (oku)boberwa v.tr. to cover
 RUU kiinikira (oku)kiinikira v.tr. to cover
 RUU kingiirya (oku)kingiirya v.tr. to protect, to defend, to cover
 
+COVER[2GENERIC]
+---------------
+RUU roobaroobana (oku)roobaroobana v.tr. to be covered with, to be immersed
 
 CLOSE[GENERIC]
 --------------
