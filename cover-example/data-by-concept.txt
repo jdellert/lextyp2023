@@ -119,6 +119,7 @@ NAH TLAPACHOĀ vrefl,vt  to cover oneself; to cover something, to roof something
 IKX ɡubés [ɡubésí-] v. to blanket, cover
 RUU bbiinikira (oku)bbiinikira v.tr. to cover
 RUU bbiitikira (oku)bbiitikira v.tr. to cover
+RUU bbuutikira (oku)bbuutikira v.tr. (1) to cover (2) (b) to treat with a steam bath (for medical purposes)
 
 CLOSE[GENERIC]
 --------------
@@ -143,6 +144,7 @@ DAG	gbore [gbʊ̀rɪ̀] v. (1) to hold water in the mouth (2) to conceal a hole 
 HAVE_A_SHOWER
 -------------
 MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+RUU bbuutikira (oku)bbuutikira v.tr. (1) to cover (2) (b) to treat with a steam bath (for medical purposes)
 
 SPRINKLE[GENERIC]
 -----------------
@@ -178,4 +180,6 @@ RUU biika1 (oku)biika v.tr. (1) to keep, to hold, to keep safe (2) to store, to 
 STORE[GENERIC]
 --------------
 RUU biika1 (oku)biika v.tr. (1) to keep, to hold, to keep safe (2) to store, to stockpile (3) (of money) to save, to put aside (4) (of secrets) to keep, to conceal
+
+
 
