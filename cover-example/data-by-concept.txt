@@ -102,6 +102,10 @@ COVER[2LARGE_AREA]
 ------------------
 RUU maamira (oku)maamira v.intr./tr. (1) to sit on (eggs) to hatch them, to brood, to incubate (2) to be everywhere, to spread over, to extend over, to cover a large area
 
+COVER[2FOOD_3LEAF]
+-----------------
+RUU saaniika (oku)saaniika v.tr. to cover (food with leaves)
+
 CONCEAL[2WRONGDOING]
 ------------------
 DAG	pilipili [pìlìpílí] v. to cover up or confuse by clever actions
