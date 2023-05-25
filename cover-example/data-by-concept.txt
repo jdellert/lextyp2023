@@ -9,6 +9,8 @@ COVER[2BUILDING]
 ---------------
 DAG	pilli [pìllì] v. (2) cover the top of a building
 MRI	tāpatu (verb) (-a,-ngia,-tia) to roof, cover, thatch.
+NAH TLAPACHOĀ vrefl,vt  to cover oneself; to cover something, to roof something over; to govern, rule; for a hen to brood
+RUU lasa (oku)lasa v.tr. (1) o shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
 
 COVER[2CONTAINER]
 -----------------
@@ -197,3 +199,12 @@ RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to p
 
 REPULSE[SPELLS]
 RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
+
+SHOOT[GUN]
+----------
+RUU lasa (oku)lasa v.tr. (1) o shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+
+DRAW[BLOOD]
+-----------
+RUU lasa (oku)lasa v.tr. (1) o shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+
