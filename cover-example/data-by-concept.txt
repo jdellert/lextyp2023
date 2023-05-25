@@ -94,6 +94,10 @@ COVER[2INDECENT_EXPOSURE]
 -------------------------
 RUU kundaaza (oku)kundaaza v.tr. to cover up indecent exposure (e.g. of breasts)
 
+COVER[23_WEED]
+-------------
+RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of the king) to die (4) to be covered with weeds
+
 CONCEAL[2WRONGDOING]
 ------------------
 DAG	pilipili [pìlìpílí] v. to cover up or confuse by clever actions
@@ -208,3 +212,14 @@ DRAW[BLOOD]
 -----------
 RUU lasa (oku)lasa v.tr. (1) o shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
 
+DROWN[GENERIC]
+--------------
+RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of the king) to die (4) to be covered with weeds
+
+VANISH[GENERIC]
+--------------
+RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of the king) to die (4) to be covered with weeds
+
+DIE[KING]
+--------------
+RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of the king) to die (4) to be covered with weeds
