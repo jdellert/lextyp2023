@@ -10,7 +10,9 @@ COVER[2BUILDING]
 DAG	pilli [pìllì] v. (2) cover the top of a building
 MRI	tāpatu (verb) (-a,-ngia,-tia) to roof, cover, thatch.
 NAH TLAPACHOĀ vrefl,vt  to cover oneself; to cover something, to roof something over; to govern, rule; for a hen to brood
-RUU lasa (oku)lasa v.tr. (1) o shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+RUU lasa (oku)lasa v.tr. (1) to shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+RUU sakaara (oku)sakaara v.tr. (1) to thatch, to cover (a roof or a building) with straw or a similar material (2) to roof, to cover with roof
+RUU sweka (oku)sweka v.tr. (1) to cover, to coat (2) to roof (3) to give a dress (to a woman who has lost her husband)
 
 COVER[2BUILDING, 3STRAW]
 ------------------------
@@ -65,10 +67,6 @@ NAH	xicocuitlahuia: to wax something, or cover something with wax, e.g. a canvas
 COVER[3DUST]
 ----------
 NAH	 teppachoa: to fill something up or to cover something with dust
-
-COVER[3ROOF]
-------------
-RUU sakaara (oku)sakaara v.tr. (1) to thatch, to cover (a roof or a building) with straw or a similar material (2) to roof, to cover with roof
 
 COVER[3POWDER]
 --------------
@@ -156,6 +154,7 @@ RUU kiinikira (oku)kiinikira v.tr. to cover
 RUU kingiirya (oku)kingiirya v.tr. to protect, to defend, to cover
 RUU saanikira (oku)saanikira v.intr. to cover, to put cover on
 RUU sabika (oku)sabika v.tr. to wrap, to cover e.g. in paper
+RUU sweka (oku)sweka v.tr. (1) to cover, to coat (2) to roof (3) to give a dress (to a woman who has lost her husband)
 
 COVER[2GENERIC]
 ---------------
@@ -231,11 +230,11 @@ RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to p
 
 SHOOT[GUN]
 ----------
-RUU lasa (oku)lasa v.tr. (1) o shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+RUU lasa (oku)lasa v.tr. (1) to shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
 
 DRAW[BLOOD]
 -----------
-RUU lasa (oku)lasa v.tr. (1) o shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+RUU lasa (oku)lasa v.tr. (1) to shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
 
 DROWN[GENERIC]
 --------------
@@ -256,3 +255,8 @@ RUU maamira (oku)maamira v.intr./tr. (1) to sit on (eggs) to hatch them, to broo
 SHIVER[GENERIC]
 ---------------
 RUU sisira (oku)sisira v.intr./tr. (1) to tremble all over, to shiver (2) to have a creepy feeling, to have a tingling sensation, to be startled, to be shocked, to be taken aback, to experience revulsion (3) to apply (powder), to powder, to cover (with powder)
+
+GIVE[DRESS]
+-----------
+RUU sweka (oku)sweka v.tr. (1) to cover, to coat (2) to roof (3) to give a dress (to a woman who has lost her husband)
+
