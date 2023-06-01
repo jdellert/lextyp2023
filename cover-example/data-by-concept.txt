@@ -17,6 +17,7 @@ MRI	tūpoki (1) to capsize, overturn (2) (verb) (-na) to cover [e.g. honey to pr
 COVER[2MOUTH]
 -----------------
 NAH	tenquimiloa: to cover one's mouth with something; or, in the transitive, to cover someone's mouth with something 
+NAH	camatecapania: to cover someone's mouth to quiet that person, using a slap (transitive); to slap oneself in the mouth multiple times (reflexive)
 
 COVER[2EARS]
 -----------------
@@ -34,6 +35,14 @@ COVER[3CLOTH]
 ------------
 DAG	pilli [pìllì] v. (1) to cover (with a cloth)
 MRI	huili v. (1) to cover "[...] blankets to cover us at night [...]"
+
+COVER[3EARTH]
+----------
+NAH	tlalquimiloa to cover something with earth, or to cover thistles with earth
+
+COVER[2THISTLES,3EARTH]
+----------
+NAH	tlalquimiloa to cover something with earth, or to cover thistles with earth
 
 COVER[3TIN]
 ----------
@@ -75,16 +84,22 @@ COVER[2EYES,3CLOTH]
 ---------------------
 NAH	īxpīqui:to cover the eyes of a person or animal with a cloth; īxpīquiliā: to cover the eyes of s.o.’s child, animal or dead relative with a cloth
 
+COVER[2WINESACK,3PITCH]
+---------------------
+NAH	to cover a sack of wine with pitch
+
 COVER[1HEN,2CHICKS,3WINGS]
 ---------------------
 NAH	amatlapallapachoa: for a hen to cover her little chicks with her wings
-
-
 	
 
 COVER[13INSECTS]
 ----------------
 DAG	milli pɔge [mìllì-pɔ̀gɪ̀] v. to cover all over e.g. flies over a rotten carcass • Naazoore milli pɔge la a nɛmpoɔnaa zaa. The rotten meat is completely covered with flies.
+
+COVER[13SHADE]
+----------------
+NAH	yacalhuia:to cover something with a shadow or shade, or to make a shade or shadow
 
 CONCEAL[2WRONGDOING]
 ------------------
@@ -144,6 +159,14 @@ MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover
 FILL_UP
 ----------
 NAH	 teppachoa: to fill something up or to cover something with dust
+
+COVER_HONOR
+----------
+NAH	mamachtlani: to cover honor or admiration for oneself
+
+SLAP[2MOUTH]
+----------
+NAH	camatecapania: to cover someone's mouth to quiet that person, using a slap (transitive); to slap oneself in the mouth multiple times (reflexive)
 
 CONCEAL[GENERIC]
 ----------------
