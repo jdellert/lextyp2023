@@ -9,6 +9,14 @@ COVER[2BUILDING]
 ---------------
 DAG	pilli [pìllì] v. (2) cover the top of a building
 MRI	tāpatu (verb) (-a,-ngia,-tia) to roof, cover, thatch.
+NAH TLAPACHOĀ vrefl,vt  to cover oneself; to cover something, to roof something over; to govern, rule; for a hen to brood
+RUU lasa (oku)lasa v.tr. (1) to shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+RUU sakaara (oku)sakaara v.tr. (1) to thatch, to cover (a roof or a building) with straw or a similar material (2) to roof, to cover with roof
+RUU sweka (oku)sweka v.tr. (1) to cover, to coat (2) to roof (3) to give a dress (to a woman who has lost her husband)
+
+COVER[2BUILDING, 3STRAW]
+------------------------
+RUU sakaara (oku)sakaara v.tr. (1) to thatch, to cover (a roof or a building) with straw or a similar material (2) to roof, to cover with roof
 
 COVER[2CONTAINER]
 -----------------
@@ -35,6 +43,7 @@ COVER[3CLOTH]
 ------------
 DAG	pilli [pìllì] v. (1) to cover (with a cloth)
 MRI	huili v. (1) to cover "[...] blankets to cover us at night [...]"
+RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
 
 COVER[3EARTH]
 ----------
@@ -68,6 +77,10 @@ COVER[3DUST]
 ----------
 NAH	 teppachoa: to fill something up or to cover something with dust
 
+COVER[3POWDER]
+--------------
+RUU sisira (oku)sisira v.intr./tr. (1) to tremble all over, to shiver (2) to have a creepy feeling, to have a tingling sensation, to be startled, to be shocked, to be taken aback, to experience revulsion (3) to apply (powder), to powder, to cover (with powder)
+
 COVER[2FLOOR,3MAT]
 ------------------
 MRI	whāriki (1) to cover with a mat, spread out on the ground. "[...] spread a mat and treasures"
@@ -91,7 +104,6 @@ NAH	to cover a sack of wine with pitch
 COVER[1HEN,2CHICKS,3WINGS]
 ---------------------
 NAH	amatlapallapachoa: for a hen to cover her little chicks with her wings
-	
 
 COVER[13INSECTS]
 ----------------
@@ -100,6 +112,26 @@ DAG	milli pɔge [mìllì-pɔ̀gɪ̀] v. to cover all over e.g. flies over a rott
 COVER[13SHADE]
 ----------------
 NAH	yacalhuia:to cover something with a shadow or shade, or to make a shade or shadow
+
+COVER[2MILLET_DOUGH]
+--------------------
+RUU bboberwa (oku)bboberwa v.tr. (of millet dough) to cover
+
+COVER[2INDECENT_EXPOSURE]
+-------------------------
+RUU kundaaza (oku)kundaaza v.tr. to cover up indecent exposure (e.g. of breasts)
+
+COVER[23_WEED]
+-------------
+RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of the king) to die (4) to be covered with weeds
+
+COVER[2LARGE_AREA]
+------------------
+RUU maamira (oku)maamira v.intr./tr. (1) to sit on (eggs) to hatch them, to brood, to incubate (2) to be everywhere, to spread over, to extend over, to cover a large area
+
+COVER[2FOOD_3LEAF]
+-----------------
+RUU saaniika (oku)saaniika v.tr. to cover (food with leaves)
 
 CONCEAL[2WRONGDOING]
 ------------------
@@ -122,15 +154,33 @@ OVERTURN[2BOAT]
 ---------------
 MRI	tūpoki (1) to capsize, overturn (2) (verb) (-na) to cover [e.g. honey to protect it from flies]
 
-COVER[GENERIC]
+COVER[1GENERIC]
 --------------
-DAG	pɔge [pɔ̀gɪ̀] v. (2) to cover
-DAG	vɔgele [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
-MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+DGA pɔge  [pɔ̀gɪ̀] v. (2) to cover
+DGA vɔgele  [vɔ̀glɪ̀] v. (1) to cover (2) to put on top e.g. hat (3) to overturn e.g. container
+IPK matutaq-  v.  (1) 1. to cover anything. Variant: matu-.  (3) 2. to use a fowling net
+IPK piġuuq- v.  to put a cover on something
+MRI uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+NAH TLAPACHOĀ vrefl,vt  to cover oneself; to cover something, to roof something over; to govern, rule; for a hen to brood
+IKX ɡubés [ɡubésí-] v. to blanket, cover
+RUU bbiinikira (oku)bbiinikira v.tr. to cover
+RUU bbiitikira (oku)bbiitikira v.tr. to cover
+RUU bbuutikira (oku)bbuutikira v.tr. (1) to cover (2) (b) to treat with a steam bath (for medical purposes)
+RUU boberwa (oku)boberwa v.tr. to cover
+RUU kiinikira (oku)kiinikira v.tr. to cover
+RUU kingiirya (oku)kingiirya v.tr. to protect, to defend, to cover
+RUU saanikira (oku)saanikira v.intr. to cover, to put cover on
+RUU sabika (oku)sabika v.tr. to wrap, to cover e.g. in paper
+RUU sweka (oku)sweka v.tr. (1) to cover, to coat (2) to roof (3) to give a dress (to a woman who has lost her husband)
+
+COVER[2GENERIC]
+---------------
+RUU roobaroobana (oku)roobaroobana v.tr. to be covered with, to be immersed
 
 CLOSE[GENERIC]
 --------------
 DAG	pɔge [pɔ̀gɪ̀] v. (1) to close, to shut
+RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
 
 CLOSE[EYES]
 -----------
@@ -151,6 +201,7 @@ DAG	gbore [gbʊ̀rɪ̀] v. (1) to hold water in the mouth (2) to conceal a hole 
 HAVE_A_SHOWER
 -------------
 MRI	uwhiuwhi  1. (verb) (-a) to sprinkle, spray. (2) (verb) (-a) to cover, cover up. (3) 3. (verb) (-a) to shower "move out to have hot showers"
+RUU bbuutikira (oku)bbuutikira v.tr. (1) to cover (2) (b) to treat with a steam bath (for medical purposes)
 
 SPRINKLE[GENERIC]
 -----------------
@@ -182,3 +233,54 @@ CONCEAL[12SELF]
 ---------------
 IPK talit-  v.  (1) to conceal  (2) to become concealed ; to get out of sight.
 RUU ekweka [see also ebbisa] (okw)ekweka v.intr. to hide, to conceal oneself
+
+BE_QUIET[SECRET]
+----------------
+RUU esiriikiirya (okw)esiriikiirya v.intr./tr. (1) to not disclose, to conceal, to hide (2) to pretend to be quiet, to respond with silence, to turn a deaf ear
+
+SAVE[GENERIC]
+-------------
+RUU biika1 (oku)biika v.tr. (1) to keep, to hold, to keep safe (2) to store, to stockpile (3) (of money) to save, to put aside (4) (of secrets) to keep, to conceal
+
+STORE[GENERIC]
+--------------
+RUU biika1 (oku)biika v.tr. (1) to keep, to hold, to keep safe (2) to store, to stockpile (3) (of money) to save, to put aside (4) (of secrets) to keep, to conceal
+
+AVOID[GENERIC]
+--------------
+RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
+
+REPULSE[SPELLS]
+RUU kinga1 (oku)kinga v.tr. (1) to close, to shut (2) to veil, to cover (3) to prevent, to avoid (4) to repulse spells (5)  to treat (a corpse, e.g. by embalming)
+
+SHOOT[GUN]
+----------
+RUU lasa (oku)lasa v.tr. (1) to shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+
+DRAW[BLOOD]
+-----------
+RUU lasa (oku)lasa v.tr. (1) to shoot (a gun, an arrow), to fire (2) to draw blood (from an animal) (3)  to construct (a roof of a house), to build (a roof of a house), to cover the house
+
+DROWN[GENERIC]
+--------------
+RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of the king) to die (4) to be covered with weeds
+
+VANISH[GENERIC]
+--------------
+RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of the king) to die (4) to be covered with weeds
+
+DIE[KING]
+--------------
+RUU lika (oku)lika v.intr. (1) to drown (2) to vanish, to become extinct (3) (of the king) to die (4) to be covered with weeds
+
+HATCH[EGG]
+----------
+RUU maamira (oku)maamira v.intr./tr. (1) to sit on (eggs) to hatch them, to brood, to incubate (2) to be everywhere, to spread over, to extend over, to cover a large area
+
+SHIVER[GENERIC]
+---------------
+RUU sisira (oku)sisira v.intr./tr. (1) to tremble all over, to shiver (2) to have a creepy feeling, to have a tingling sensation, to be startled, to be shocked, to be taken aback, to experience revulsion (3) to apply (powder), to powder, to cover (with powder)
+
+GIVE[DRESS]
+-----------
+RUU sweka (oku)sweka v.tr. (1) to cover, to coat (2) to roof (3) to give a dress (to a woman who has lost her husband)
